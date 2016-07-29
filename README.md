@@ -8,7 +8,7 @@ maintaining the IDE and bring it a little more up to date.
 =======================
 to lunch 
 via file (windows) or termnal (lunix) open the __init__.py file you may be prompted to install python-wxgtk
-
+    this is not code this is a logic tree to installing if you have truble google "install python-wxgtk <YOUR OS!>"
     if ubuntu:
       sudo apt-get install python-wxgtk
     elif windows:
