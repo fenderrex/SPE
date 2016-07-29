@@ -13,5 +13,5 @@ via file (windows) or termnal (lunix) open the __init__.py file you may be promp
       sudo apt-get install python-wxgtk
     elif windows:
       install ubuntu #;)
-to lunch via script just
->>>import SPE
+To lunch via script from with in the dirrectory-This repo does not have a setup.py or installer
+>import SPE
