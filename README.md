@@ -13,13 +13,13 @@ via file (windows) or termnal (lunix) open the __init__.py file you may be promp
 
 this is not code this is a logic tree to installing
 =======================
-'''python
+   '''python
    if ubuntu:
       sudo apt-get install python-wxgtk
    elif windows:
       install ubuntu #;)
    else:
       google "install python-wxgtk <YOUR OS!>"
-      '''
+   '''
 To lunch via script from with in the dirrectory-This repo does not have a setup.py or installer
 >import SPE
