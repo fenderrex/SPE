@@ -11,7 +11,7 @@ maintaining the IDE and bring it a little more up to date.
 to lunch 
 via file (windows) or termnal (lunix) open the __init__.py file you may be prompted to install python-wxgtk
 
-#This is not code this is a logic tree for installing
+#The below is not code this is a logic tree for installing
 =======================
    
    
