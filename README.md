@@ -27,3 +27,9 @@ via file (windows) or termnal (lunix) open the __init__.py file you may be promp
    
 To lunch via script from with in the dirrectory-This repo does not have a setup.py or installer
 >import SPE
+
+
+#TODO:
+-[ ] git Intergration 
+-[ ] EIDE Intergration
+-[ ] Console use git to ensure the Console can run in the development enviorment and not just copped in to some temp folder
