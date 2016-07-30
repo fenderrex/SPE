@@ -15,21 +15,27 @@ via file (windows) or termnal (lunix) open the __init__.py file you may be promp
 =======================
    
    
-```   
+```python  
+try:
    if ubuntu:
       sudo apt-get install python-wxgtk
    elif windows:
       install ubuntu #;)
+      rase()
    else:
       google "install python-wxgtk <YOUR OS!>"
+except:
+   install ubuntu || google "install python-wxgtk <YOUR OS!>"
    ```
    
    
-To lunch via script from with in the dirrectory-This repo does not have a setup.py or installer
+#To lunch via script from with in the dirrectory-This repo does not have a setup.py or installer yet this also means no lunch icon
 >import SPE
 
 
-#TODO:
--[ ] git Intergration 
--[ ] EIDE Intergration
--[ ] Console use git to ensure the Console can run in the development enviorment and not just copped in to some temp folder
+## TODO:
+- [ ] git Intergration 
+- [ ] EIDE Intergration
+- [ ] Console use git to ensure the Console can run in the development enviorment and not just copped in to some temp folder
+- [ ] Tunnel console over ssh
+- [ ] FTP Intergration
